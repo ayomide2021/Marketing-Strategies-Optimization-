@@ -12,6 +12,17 @@ Dataset Size: Over 500 million rows of data pipelines
 Source: Google BigQuery
 Key Attributes: customer id, transaction id, Purchase date, transaction revenue, customer demographics, item quantity, item price, cost of goods sold (COGS), marketing channels. 
 
+# Tech Used
+
+•	BigQuery (database)
+
+•	SQL
+
+•	Power BI
+
+•	Google Sheets
+
+
 # Process and Methodology
 ## Data Cleaning
 •	Utilized SQL to remove duplicates 
