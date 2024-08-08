@@ -1,3 +1,5 @@
+/* Count of transactions by coupon type for each digital marketing channele  and medium */
+
 SELECT
   DATE_TRUNC(DATE(t.date), QUARTER) AS quarter,
   s.traffic_source,
