@@ -122,19 +122,24 @@ Source: Google BigQuery
 •	T-shirts reign in popularity through Google channel. 
 
 # Recommendations and Impacts
-## Opportunity 1
-**Insight**: 10% off and 15% off coupons appear to be more profitable out of all the coupon types, in terms of profit and number of coupon usage.
 
-**Recommendations**: As lower value coupons are desirable, we recommend scraping 10% coupons and keeping 15% coupons with £30 order value threshold
+### Opportunity 1
+   
+ •	Insight: 10% off and 15% off coupons appear to be more profitable out of all the coupon types, in terms of profit and number of coupon usage.
 
-**Financial impact**:  Adding a threshold of £30 for coupon usage, 15% coupons could potentially bring in £15000, (10% coupons would only bring in an additional ~£3000). With removing 10% coupons completely we could recoup £43000. 
-
-## Opportunity 2
-**Insights**: Google is performing better than all other channels in terms of number of coupon usage, CLV, acquiring new customers, revenue and ROAS.
-
-**Recommendations**: Based on this, we recommend optimising our investments in Google to improve our profitability while maintaining customer engagement. Shift some budget to google channel.  
-
-**Financial impact**: by using Keyword Optimization, the net profit could increase by over £1M. 
+ •	Recommendations: As lower value coupons are desirable, we recommend scraping 10% coupons and keeping 15% coupons with £30 order value threshold
+ 
+ •	Financial impact: Adding a threshold of £30 for coupon usage, 15% coupons could potentially bring in £15000, (10% coupons would only bring in an additional ~£3000). With removing 10% coupons completely we could recoup £43000.
+ 
+ ### Opportunity 2
+   
+ •	Insights: Google is performing better than all other channels in terms of number of coupon usage, CLV, acquiring new customers, revenue and ROAS.
+ 
+ •	Recommendations: Based on this, we recommend optimising our investments in Google to improve our profitability while maintaining customer engagement. Shift some budget to google channel.
+ 
+ •	Financial impact: by using Keyword Optimization, the project net profit of £100K could be achieved.
+ 
+By implementing either of these solutions, the company can better manage the trade-off between driving revenue through repeat purchases and maintaining profitability. The recommended adjustments aim to find a middle ground that sustains customer engagement without compromising the company's financial health.
 
 # Conclusion 
 This project demonstrated the significant impact of data-driven decisions on business performance. By using data analytics tools and techniques, I provided actionable insights, recommendations, and detailed the financial impacts of these recommendations, which were then presented to stakeholders.
