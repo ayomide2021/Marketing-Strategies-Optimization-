@@ -45,6 +45,17 @@ The aim is to answer the following questions:
 •	Are there significant differences in engagement metrics (e.g., repeat purchases, time spent on the website, interaction with marketing campaigns) for each marketing channel and medium
 
 
+# Objectives
+
+The primary objective is to identify specific things that can be done to improve profitability. 
+By the end of this project, the company expects to have a clear understanding of:
+•	The effectiveness of discounts in acquiring customers and improving customer retention. 
+
+•	Key behavioural triggers and characteristics of retained customers.
+
+•	The overall profitability of each marketing channel. 
+
+
 
 # Tech Used
 
