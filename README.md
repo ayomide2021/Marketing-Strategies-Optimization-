@@ -23,6 +23,26 @@ The analysis of the impact of discounts on customer behavior reveals that while 
 By implementing either of these solutions, the company can better manage the trade-off between driving revenue through repeat purchases and maintaining profitability. The recommended adjustments aim to find a middle ground that sustains customer engagement without compromising the company's financial health.
 
 
+# Business Problem
+
+Customer retention has been a big issue for this in-house e-commerce company for the past two years. Stakeholders and management have observed that most customers purchase once and do not return. Given that retaining existing customers is more cost-effective than acquiring new ones, the company has decided to roll out coupons and different types of discounts. 
+However, this marketing strategy is impacting profit negatively and is not sustainable. Considering this, there is need to improve coupon usage and explore alternative strategies to address this challenge. 
+
+The question is what should we do? How can we optimise our marketing budget to provide increased customer value while improving profitability?
+
+The aim is to answer the following questions:
+
+•	What characterizes the behavior of customers in different segment?
+
+•	How profitable are the digital marketing channels 
+
+•	What is our most popular marketing channel and medium
+
+•	Do the discounts lead to increased overall spending or just reduced margins?
+
+•	How engaged are the customers for each marketing channel and medium
+
+•	Are there significant differences in engagement metrics (e.g., repeat purchases, time spent on the website, interaction with marketing campaigns) for each marketing channel and medium
 
 
 
