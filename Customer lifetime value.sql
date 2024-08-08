@@ -2,6 +2,7 @@
 SQL query to calculate customer lifetime value for different customer segment
 */
 
+
 FROM
       purchase_info AS p
     JOIN
