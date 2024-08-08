@@ -3,6 +3,7 @@ This query joins transactions, transactionsanditems, sessions, productattributes
 The data from '2022-10-01' is disregarded and focus is only on 5 marketing channels.
 The query also categorises the discount coupons based on the discount they offer.
 */
+
 SELECT 
   t.date,
   --t.transaction_id,
