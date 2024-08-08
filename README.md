@@ -170,9 +170,6 @@ SELECT
   
   ROUND(SUM(CASE 
   
-    WHEN coupon_type = '10% OFF' AND transaction_revenue <= 30.0 THEN transaction_revenue*0.10/(1-0.10)
-    
-    WHEN coupon_type = '15% OFF' AND transaction_revenue <= 30.0 THEN transaction_revenue*0.15/(1-0.15)
     
   END),2) AS additional_revenue_30_cutoff,
   
