@@ -37,17 +37,19 @@ Key Attributes: customer id, transaction id, Purchase date, transaction revenue,
 •	Exported cleaned  and aggregated data to Google Sheets for initial analysis.
 •	Created powerful visuals and interactive dashboards in Power BI to visualize key metrics and trends.
 
-![Week _9_Red_Team_ Project presentation_template (3)_page-0003](https://github.com/ayomide2021/Marketing-Strategies-Optimization-/assets/83126882/679e25bf-9f4a-4636-971a-4a9ea729191a)
+![Project 9_page-0003](https://github.com/user-attachments/assets/54f212c8-fbc3-4fa2-8df9-fe0bab228e6c)
 
-![Week _9_Red_Team_ Project presentation_template (3)_page-0004](https://github.com/ayomide2021/Marketing-Strategies-Optimization-/assets/83126882/d4df1b3b-b07c-40a8-8c57-229809294efe)
-![Week _9_Red_Team_ Project presentation_template (3)_page-0005](https://github.com/ayomide2021/Marketing-Strategies-Optimization-/assets/83126882/08c818e2-4dbf-4ad4-b9e4-c70a8fa9998d)
-![Week _9_Red_Team_ Project presentation_template (3)_page-0006](https://github.com/ayomide2021/Marketing-Strategies-Optimization-/assets/83126882/520169fe-4d4e-4d65-82d8-8513b60645b3)
-![Week _9_Red_Team_ Project presentation_template (3)_page-0007](https://github.com/ayomide2021/Marketing-Strategies-Optimization-/assets/83126882/a4c0850f-8781-4752-a5d8-917ce0d947bd)
-![Week _9_Red_Team_ Project presentation_template (3)_page-0008](https://github.com/ayomide2021/Marketing-Strategies-Optimization-/assets/83126882/875039ca-2022-474e-af98-57f21241f0f4)
-![Week _9_Red_Team_ Project presentation_template (3)_page-0009](https://github.com/ayomide2021/Marketing-Strategies-Optimization-/assets/83126882/8361082d-7ce8-465e-9f0a-5e51bedbafc3)
+![Project 9_page-0004](https://github.com/user-attachments/assets/5b9c3e9d-8bbd-4df4-8d6d-531a3516ceed)
 
+![Project 9_page-0005](https://github.com/user-attachments/assets/47e13d2e-2399-4dac-90b7-38b18f2b3261)
 
+![Project 9_page-0006](https://github.com/user-attachments/assets/cc5721d2-3a3d-4912-b8e6-866b2de82877)
 
+![Project 9_page-0007](https://github.com/user-attachments/assets/a52b75f7-f513-4356-8bcd-d1ec167e9c88)
+
+![Project 9_page-0008](https://github.com/user-attachments/assets/8a74250a-d7de-497c-b8c0-6ac126ca6109)
+
+![Project 9_page-0009](https://github.com/user-attachments/assets/35730be4-3bc3-4b37-8724-559aee9115de)
 
 
 
