@@ -1,16 +1,22 @@
 # Marketing-Strategies-Optimization
 
-# Overview
-In this project, a large e-commerce dataset was analysed to uncover valuable insights into Marketing strategies optimization  with focus on marketing channels.  Utilizing SQL, Google Sheets, and Power BI, I processed and visualized over 500 million rows of data stored in Google BigQuery.  
+# Executive Summary
 
-# Problem Statement
-There has been a significant increase in coupon usage among customers recently. We are spending a lot of marketing budget on coupons which attract customers to our brand. However, this marketing strategy is impacting our profit negatively and is not sustainable. Considering this, we need to improve coupon usage and explore alternative strategies to address this challenge. 
-The question is what should we do? How can we optimise our marketing budget to provide increased customer value while improving profitability?
+The analysis of the impact of discounts on customer behavior reveals that while these incentives drive revenue through repeat purchases, they also significantly affect profitability. Based on the findings, I recommend two potential solutions for moving forward:
+1.	Opportunity 1
+ •	Insight: 10% off and 15% off coupons appear to be more profitable out of all the coupon types, in terms of profit and number of coupon usage.
+ •	Recommendations: As lower value coupons are desirable, we recommend scraping 10% coupons and keeping 15% coupons with £30 order value threshold
+ •	Financial impact: Adding a threshold of £30 for coupon usage, 15% coupons could potentially bring in £15000, (10% coupons would only bring in an additional ~£3000). With removing 10% coupons completely we could recoup £43000.
 
-# Data Description
-Dataset Size: Over 500 million rows of data pipelines
-Source: Google BigQuery
-Key Attributes: customer id, transaction id, Purchase date, transaction revenue, customer demographics, item quantity, item price, cost of goods sold (COGS), marketing channels. 
+2.	Opportunity 2
+ •	Insights: Google is performing better than all other channels in terms of number of coupon usage, CLV, acquiring new customers, revenue and ROAS.
+ •	Recommendations: Based on this, we recommend optimising our investments in Google to improve our profitability while maintaining customer engagement. Shift some budget to google channel.
+ •	Financial impact: by using Keyword Optimization, the project net profit of £100K could be achieved.
+By implementing either of these solutions, the company can better manage the trade-off between driving revenue through repeat purchases and maintaining profitability. The recommended adjustments aim to find a middle ground that sustains customer engagement without compromising the company's financial health.
+
+
+
+
 
 # Tech Used
 
