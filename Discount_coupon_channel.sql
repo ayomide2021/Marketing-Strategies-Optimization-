@@ -1,4 +1,4 @@
-/* Count of transactions by coupon type for each digital marketing channele  and medium */
+/* Count of transactions by Discount coupon types for each digital marketing channele and medium on quarterly basis*/
 
 SELECT
   DATE_TRUNC(DATE(t.date), QUARTER) AS quarter,
